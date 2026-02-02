@@ -1,0 +1,16 @@
+{
+  "name": "xinglab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YuanXiQWQ/COMP4537XingLab3.git"
+  },
+  "private": true
+}
